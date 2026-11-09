@@ -119,3 +119,5 @@ graph TD
     CONF_TESTS -->|Provides Validation Suites| VAL_SCRIPT
     VAL_SCRIPT -->|Verifies Compliance| CERT
 ```
+
+<!-- lgd gate probe: this commit must be refused by the gate -->
